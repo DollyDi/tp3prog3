@@ -1,0 +1,177 @@
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\Validaciones.dll.config
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\Validaciones.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\Validaciones.pdb
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\csc.exe
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\csc.exe.config
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\csc.rsp
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\csi.exe
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\csi.exe.config
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\csi.rsp
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.AppContext.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Console.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Net.Http.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\vbc.exe
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\vbc.exe.config
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\vbc.rsp
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.AssemblyReference.cache
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Diamela\Desktop\proyect\x\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.pdb
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\Validaciones.dll.config
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\Validaciones.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\Validaciones.pdb
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\csc.exe
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\csc.exe.config
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\csc.rsp
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\csi.exe
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\csi.exe.config
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\csi.rsp
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.AppContext.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Console.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Net.Http.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\vbc.exe
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\vbc.exe.config
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\vbc.rsp
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.AssemblyReference.cache
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\Sebas\Source\Repos\tp3prog3\Validaciones\Validaciones\obj\Debug\Validaciones.pdb
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\Validaciones.dll.config
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\Validaciones.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\Validaciones.pdb
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\csc.exe
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\csc.exe.config
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\csc.rsp
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\csi.exe
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\csi.exe.config
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\csi.rsp
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.Managed.Core.targets
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.AppContext.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Collections.Immutable.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Console.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Globalization.Calendars.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.IO.Compression.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.IO.FileSystem.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Net.Http.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Net.Sockets.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Reflection.Metadata.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.ValueTuple.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Xml.XmlDocument.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Xml.XPath.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\vbc.exe
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\vbc.exe.config
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\vbc.rsp
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\VBCSCompiler.exe
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\roslyn\VBCSCompiler.exe.config
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.AssemblyReference.cache
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\obj\Debug\Validaciones.csproj.CopyComplete
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\obj\Debug\Validaciones.dll
+G:\descargas\tp3prog3-master (1)\tp3prog3-master\Validaciones\Validaciones\obj\Debug\Validaciones.pdb
